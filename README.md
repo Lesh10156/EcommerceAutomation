@@ -1,4 +1,4 @@
-# SauceDemo 4th Group 2024
+# Ecommerce Automation SauceDemo
 This is the document that will explain to us how the project works
 
 ## Purpose of this project
